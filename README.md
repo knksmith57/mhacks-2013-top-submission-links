@@ -24,7 +24,7 @@ account proximity, friends, whats trending, and advanced machine learning to
 let our users become aware of important topics near their location.
 
 ## Google
-### Prize of
+### Prize of Nexus 7 tablets + Chromecasts
 
 #### Winner: [Relevant XKCD](http://mhacks.challengepost.com/submissions/17554-relevant-xkcd)
 
@@ -45,7 +45,7 @@ Project site: <http://relevant-xkcd.appspot.com/>
 More info [below](#save-my-glass)
 
 ## The Thiel Fellowship
-### "First-ever Hackathon Prize"
+### "First-ever Hackathon Prize" for travel and accommodations paid to attend the next Under20 summit
 
 #### Winner: [Know](http://mhacks.challengepost.com/submissions/17384-know)
 ##### By Benjamin Englard [@benglard](https://twitter.com/benglard)
