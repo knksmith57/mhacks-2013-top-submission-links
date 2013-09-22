@@ -129,6 +129,25 @@ for Tesla cars, or competitors to the Tesla Model S.
 Project site: <http://assimilator.co/>
 
 
+## Apple
+### "Best iOS app" prize
+#### Winner: [Seek - Magic scavenger hunt game for kids](http://mhacks.challengepost.com/submissions/17615-seek-the-visual-scavenger-hunt)
+##### By Jeff Bargmann [@jeffbargmann](https://twitter.com/jeffbargmann)
+
+Seek is a make-your-own visual scavenger hunt game made for kids, parents & adults.
+
+To play Seek, take pictures of objects for your children or friends to find. Hand your phone off, and the first image will be overlaid on top of your camera. Seek's image recognition technology (Vuforia SDK by Qualcomm) will know when you've found the item with your camera, and move on to the next picture until you win.
+
+Demo video: <https://vimeo.com/75143568>
+
+<table>
+    <tr>
+        <td><img src="http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/835/datas/xlarge.png?1379858320" /></td>
+        <td><img src="http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/848/datas/xlarge.png?1379858375" /></td>
+    </tr>
+</table>
+
+
 
 Top 10 Submissions
 ==================
