@@ -10,6 +10,33 @@ a collaborator
 Sponsor Awards
 ==============
 
+## Facebook + Parse
+### Prize of $3000 and 1-year of Parse membership
+
+#### Winner: [TrackPunch](#trackpunch)
+
+See more details about TrackPunch [below](#trackpunch)
+
+
+## MongoDB
+### Prize of $500
+
+#### Winner: [MediData](http://mhacks.challengepost.com/submissions/17480-medidata)
+
+![MediData screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/450/datas/xlarge.png?1379856426)
+
+MediData is a health reporting platform designed for communities in third world
+countries without access to the latest technology to. It allows villages to
+report the diseases in their local communities to Hospitals and
+Non-governmental organizations through text message. Once uploaded, this data
+can be analyzed through charts, which can be used to analyze the changes over
+time as well as help identify areas of concern.
+
+Github: <https://github.com/chrisngan24/MediData>
+
+Demo video: <http://www.youtube.com/watch?v=iIKV0Stk>
+
+
 ## SendGrid
 ### Prize of a LeapMotion
 
@@ -58,6 +85,22 @@ analyzing your interactions on Facebook, Know attempts to discover your
 personality. It will then give you personalized recommendations.
 
 Video demo: <http://www.youtube.com/watch?v=nHVDea0vYwY>
+
+## Bain Company Ventures and TellApart
+### "Best use of data" prize
+
+#### Winner: [Assimilator](http://mhacks.challengepost.com/submissions/17552-assimilator)
+
+![Assimilator screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/473/datas/xlarge.png?1379856689)
+
+Assimilator is a JavaScript add-on that brings up articles based on the current
+website the user is on. For example, a person on the Tesla website looking at
+the Model S would receive a notification from Assimilator. Assimilator would
+then bring up articles such as the technology of electric cars, superchargers
+for Tesla cars, or competitors to the Tesla Model S.
+
+Project site: <http://assimilator.co/>
+
 
 
 Top 10 Submissions
