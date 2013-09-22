@@ -96,5 +96,29 @@ HUD/Safety features for driving with Google Glass. Also uses weather underground
 
 
 ## Burnizer
-## Trackpunch
+
+
+## [Trackpunch](http://mhacks.challengepost.com/submissions/17580-trackpunch)
+### By Zachary Lytle [@zacklytle](https://twitter.com/zacklytle), Tam Ayers [@tamayers](https://twitter.com/tamayers), and Jonas Weigert [@JonasWeigert](https://twitter.com/JonasWeigert)
+
+![TrackPunch screenshot](http://www.trackpunch.com/ui/img/mac.png)
+
+TrackPunch is a free music platform built upon the latest in social discovery
+technology via Facebook's OpenGraph and Parse's Rest API. We analyze music
+playback from popular services like Spotify, SoundCloud, 8Tracks and more in
+order to provide users with the ultimate in music suggestion experiences. Our
+data algorithms promise to show you your next favorite songs!
+
+We'd also like to thank Ribbon for helping us sell out of first-edition
+TrackPunch tshirts. They're help was much appreciated and made the experience
+really fun and rewarding. Loved filming everyone from the quadcopter and can't
+wait to upload more footage!
+
+Project page: <http://www.trackpunch.com/>
+
+Project twitter account [@trackpunch](https://twitter.com/trackpunch)
+
+Demo video: <http://www.youtube.com/watch?v=-yA_9Iwf6lQ>
+
+
 ## VR Club
