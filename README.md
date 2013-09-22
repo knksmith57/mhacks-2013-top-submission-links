@@ -121,4 +121,13 @@ Project twitter account [@trackpunch](https://twitter.com/trackpunch)
 Demo video: <http://www.youtube.com/watch?v=-yA_9Iwf6lQ>
 
 
-## VR Club
+## [VR Glove](http://mhacks.challengepost.com/submissions/17635-vr-glove)
+
+![VR Glove screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/880/datas/xlarge.png?1379858690)
+
+A glove that could be used as an input to control a virtual reality software on
+the computer. The glove gives a feedback to the hand to make an illusion of
+holding an object by slightly restricting the movements of fingers pulling them
+with a servo mounted on the glove.
+
+
