@@ -57,9 +57,34 @@ Author site: <http://ash.so/cloud>
 Demo video: <http://www.youtube.com/watch?v=gf0iZbA8LN4>
 
 
+## [The MuMeter](http://mhacks.challengepost.com/submissions/17429-the-mu-meter)
 
-Mememeter
-Greencan
+![mumeter screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/196/datas/xlarge.png?1379832645)
+
+Our iPhone App is a suite of services that use the I/O devices of the phone in
+unique ways. It features a "Friction Finder": a service that uses the
+accelerometer to find the coefficient of friction between the phone and another
+surface by sliding the phone along it. It also has a "Record Player" that uses
+the phone's gyroscope; you can play music at variable speed by spinning your
+phone about the z-axis.
+
+
+## [GreenCan](http://mhacks.challengepost.com/submissions/17562-greencan)
+### By Joshua Drubin [@Drubadubdub](https://twitter.com/Drubadubdub)
+
+![GreenCan screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/692/datas/xlarge.png?1379857802)
+
+A trashcan that sorts items into recyclables and non-recyclables based on the
+sound that the item makes as it enters the trashcan.
+
+This prototype uses the sound that a material makes when it hits a platform to
+determine what the material is, and based on that information, determines
+whether or not the item is recyclable.
+
+Demo video: <http://www.youtube.com/watch?v=m22jhrKHFWo>
+
+
+
 Mark
 Save My Glass
 Burnizer
