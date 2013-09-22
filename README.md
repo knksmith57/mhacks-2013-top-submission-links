@@ -17,6 +17,25 @@ Sponsor Awards
 
 See more details about TrackPunch [below](#trackpunch)
 
+## Twilio
+### Prize of Lego Mindstorms EV3
+
+#### Winner: [t2wub](http://mhacks.challengepost.com/submissions/17425-t2wub)
+
+![t2wub screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/179/datas/xlarge.png?1379829593)
+
+t2wub is a utility that takes text (max length 140 characters) and converts it into an audio file, hosted on SoundCloud...
+
+...and dubsteps it.
+
+We've hosted t2wub on an Azure instance and exposed a couple of endpoints.
+
+Reply to any comment on reddit with "wubit" and wait for DubstepBot to respond.
+Text +1-703-596-8978 and you'll get a link back.
+Alternatively, text the same number, but begin your message with a phone number of format "+1XXXYYYZZZZ" (do not include dashes) and see what happens!
+
+
+
 
 ## MongoDB
 ### Prize of $500
