@@ -7,6 +7,62 @@ encouraged. If anyone else would like to help keeping this up to date just hit
 me up -> [@knksmith57](https://twitter.com/knksmith57) and I'll add you as
 a collaborator
 
+Sponsor Awards
+==============
+
+## SendGrid
+### Prize of a LeapMotion
+
+#### Winner: [Soapbox](http://mhacks.challengepost.com/submissions/17504-soapbox)
+
+![Soapbox logo](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/398/datas/xlarge.png?1379854861)
+
+Long ago when people wanted to be heard, they would stand on a SoapBox and
+holler. We believe our SoapBox gives the modern user a step up when it comes to
+being heard and hearing others. We aggregate data about issues taking into
+account proximity, friends, whats trending, and advanced machine learning to
+let our users become aware of important topics near their location.
+
+## Google
+### Prize of
+
+#### Winner: [Relevant XKCD](http://mhacks.challengepost.com/submissions/17554-relevant-xkcd)
+
+![Relevant XKCD screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/775/datas/xlarge.png?1379858125)
+
+Relevant XKCD is a web app that uses Google App Engine and Google's Prediction
+API to accurately find relevant XKCD's given key words and phrases or context
+from a conversation. The website will display comics based on their relevancy,
+and you can then train the prediction set by indicating whether the comic that
+it produced was relevant. The web app can then be used as the basis for
+a Reddit.com bot that can post relevant XKCD's based on the context of comments
+from posts, and be trained based on the amount of upvotes it recieves.
+
+Project site: <http://relevant-xkcd.appspot.com/>
+
+#### Winner: Save My Glass
+
+More info [below](#save-my-glass)
+
+## The Thiel Fellowship
+### "First-ever Hackathon Prize"
+
+#### Winner: [Know](http://mhacks.challengepost.com/submissions/17384-know)
+##### By Benjamin Englard [@benglard](https://twitter.com/benglard)
+
+![Know screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/161/datas/xlarge.png?1379820418)
+
+Today's social discovery apps show you people to meet, places to go, things to
+do - without any specialization, any recognition of your distinctions. By first
+analyzing your interactions on Facebook, Know attempts to discover your
+personality. It will then give you personalized recommendations.
+
+Video demo: <http://www.youtube.com/watch?v=nHVDea0vYwY>
+
+
+Top 10 Submissions
+==================
+
 The below submissions are **currently in presentation order** with Sponsor
 prizes in between.
 
