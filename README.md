@@ -85,8 +85,16 @@ Demo video: <http://www.youtube.com/watch?v=m22jhrKHFWo>
 
 
 
-Mark
-Save My Glass
-Burnizer
-Trackpunch
-VR Club
+## Mark
+
+## [Save My Glass](http://mhacks.challengepost.com/submissions/17463-save-my-glass)
+### By Justin Diola [@feighter](https://twitter.com/feighter) and Michael Huang [@coolbho3k](https://twitter.com/coolbho3k)
+
+![Save My Glass screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/277/datas/xlarge.png?1379846231)
+
+HUD/Safety features for driving with Google Glass. Also uses weather underground.
+
+
+## Burnizer
+## Trackpunch
+## VR Club
