@@ -40,7 +40,24 @@ recently used, and other factors.
 Github at <https://github.com/pterxiao/tabber>
 
 
-Contact Cloud
+## [Cloud Contacts](http://mhacks.challengepost.com/submissions/17540-cloud-contacts)
+### By Ash Bhat [@theashbhat](https://twitter.com/theashbhat)
+
+![cloud contacts screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/565/datas/xlarge.png?1379857227)
+
+Exchanging contacts can be a pain at any networking event. By crowd sourcing
+contact information, we make getting someone's number as easy as typing their
+name into a search box. We use twilio to accept "contact requests" even for
+those who don't have the app. We built the back end off Parse for a scalable
+solution that will take us beyond our first 3 thousand contacts to millions
+around the nation.
+
+Author site: <http://ash.so/cloud>
+
+Demo video: <http://www.youtube.com/watch?v=gf0iZbA8LN4>
+
+
+
 Mememeter
 Greencan
 Mark
