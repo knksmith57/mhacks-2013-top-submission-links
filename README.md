@@ -7,7 +7,8 @@ encouraged. If anyone else would like to help keeping this up to date just hit
 me up -> [@knksmith57](https://twitter.com/knksmith57) and I'll add you as
 a collaborator
 
-The below submissions are **currently in no-particular order**.
+The below submissions are **currently in presentation order** with Sponsor
+prizes in between.
 
 
 ## [Flash Feed](http://mhacks.challengepost.com/submissions/17431-flash-feed)
@@ -26,7 +27,7 @@ Demo video: <http://www.youtube.com/watch?v=Vj7kn_t17bs>
 
 
 ## [Tabbr](http://mhacks.challengepost.com/submissions/17469-tabbr)
-### By [@pterxiao](https://github.com/pterxiao)
+### By Peter Xiao [@pterxiao](https://github.com/pterxiao)
 
 ![tabbr screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/387/datas/xlarge.png?1379854501)
 
@@ -37,3 +38,13 @@ keywords in the tab content, tab title, tab url, frequency of accesses, most
 recently used, and other factors.
 
 Github at <https://github.com/pterxiao/tabber>
+
+
+Contact Cloud
+Mememeter
+Greencan
+Mark
+Save My Glass
+Burnizer
+Trackpunch
+VR Club
