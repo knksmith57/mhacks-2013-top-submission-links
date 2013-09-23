@@ -233,11 +233,16 @@ Demo video: <http://www.youtube.com/watch?v=m22jhrKHFWo>
 ## Mark
 
 ## [Save My Glass](http://mhacks.challengepost.com/submissions/17463-save-my-glass)
-### By Justin Diola [@feighter](https://twitter.com/feighter) and Michael Huang [@coolbho3k](https://twitter.com/coolbho3k)
+### By Austin Feight [@Hephaestus_t](https://twitter.com/feighter) and Michael Huang [@coolbho3k](https://twitter.com/coolbho3k)
 
-![Save My Glass screenshot](http://s3.amazonaws.com/challengepost/photos/production/solution_photos/000/064/277/datas/xlarge.png?1379846231)
+![Save My Glass screenshot](https://scontent-a-ord.xx.fbcdn.net/hphotos-ash3/q71/s720x720/1238311_10151865713725238_1718681447_n.jpg)
 
 HUD/Safety features for driving with Google Glass. Also uses weather underground.
+HUD Features Display of MPH, RPM, Weather, as well as the speed limit for the 
+current road. When Glass recognizes that you're nodding off behind the wheel, it 
+flashes red and sounds an alarm in your ear to wake you up. In the event that Glass
+experiences accident-level G-forces, Save My Glass will start capturing video 
+immediately and calls 911.
 
 
 ## Burnizer
